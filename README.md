@@ -1,1 +1,1 @@
-# MATLAB_PROJECT
+# HearingAidSimulator_MATLAB_PROJECT
